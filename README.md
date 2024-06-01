@@ -1,50 +1,25 @@
-# Welcome to SWORDS
 
-Welcome to the **S**can and revie**W** of **O**pen **R**esearch **D**ata and **S**oftware (**SWORDS**) project. The SWORDS project is a powerful framework to gain insights in the open source activities of your, but not limited to, university or research institute. This repository is the start of your own implementation for your organisation! Read this part carefully. For any questions, please use the [issue tracker](https://github.com/UtrechtUniversity/SWORDS-template/issues). 
-
-This repository consists of 2 parts, the instruction and the template. The instruction is what you are reading right now, the template starts after `<<< The template starts here >>>` below. To implement the SWORDS framework to your organisation easily, we recommend to make use of the template function in GitHub. The instruction below helps you to implement SWORDS for your organisation in step-by-step manner. 
-
-## Getting started with SWORDS
-
-1. Define a name for your project. The recommended name is SWORDS@{INSERT YOUR ORGANISATION NAME ABBRAVATION}. 
-2. [Create a repository from the SWORDS template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) with the name as defined in step 1. 
-3. Replace all fields in the README of your repostitory starting with `{INSERT ...}` by your details of your project and organisation. Use search `{INSERT`, because some can be harder to find. 
-4. Delete in this README everything between `<!-- REMOVE EVERYTHING BEFORE THIS LINE IN STEP 4 -->`. 
-
-## <<< The template starts here >>>
-<!-- REMOVE EVERYTHING BEFORE THIS LINE IN STEP 4 -->
-
-# SWORDS@{INSERT YOUR ORGANISATION NAME ABBRAVATION}
+# SWORDS@TNW
 
 ![banner](docs/banner.png)
 
 This repository implements for the [**S**can and revie**W** of **O**pen **R**esearch **D**ata and **S**oftware (SWORDS)](https://github.com/UtrechtUniversity/SWORDS-template) framework. SWORDS is a powerful tool to gain insights in the open source activities of your, but not limited to, university or research institute. Studies show that open source contributions can be very benificial for organisations and society. SWORDS is divided into 3 stages that can be exectued and analyzed standalone: finding user profiles associated to your organisation, extract relevant repositories, and study the contents of the respositories. 
 
 <p align="center">
-  This repository is an implementation of SWORDS for <b>{INSERT YOUR ORGANISATION NAME}</b>.
-   <!-- For example Utrecht University -->
-</p>
-<p align="center">
-  <b>SWORDS@{INSERT YOUR ORGANISATION NAME ABBRAVATION}</b>
-  <!-- For example SWORDS@UU -->
+  This repository is an implementation of SWORDS for <b>TNW</b>.
 </p>
 
-<p align="center">
-  <img src="docs/your_logo.svg">
-</p>
 
 ## Background
 
 Conducting science in an open and collaborative way is very important for greater scientific and societal impact (https://www.nwo.nl/en/open-science). The Open Science movement is therefore actively promoting and advancing openness in academic publications, data, software, and other types of output. Major steps have been taken in the last years, however, there is still a lot to improve and win. A result of this movement towards more open research output is the increase of code and software published by researchers on online platforms. The use and reuse of open source (research) software and code is widespread nowadays. 
-
-For (research) organisations, it can be interesting to have insights into the contributions and activities in open source software projects. Especially because activities of members, researchers, or employees can be divided over multiple user profiles and platforms (e.g. GitHub and GitLab). Having an overview of the activity, contents, and quality can be useful for various reasons like connecting initiatives, improve quality, and reward and recognize contributions. The SWORDS framework was introduced to help with collecting insights and assessing quality. 
 
 <!-- Introduce FAIR -->
 
 ## The SWORDS framework
 
 
-- Its goal is to analyze the FAIRness of GitHub repositories of {INSERT YOUR ORGANISATION NAME} researchers and see how they develop and manage software. The purpose of this research is to serve as a template for other researchers to scan and review repositories for their organisation as well.
+- Its goal is to analyze the FAIRness of GitHub repositories of TNW researchers and see how they develop and manage software. The purpose of this research is to serve as a template for other researchers to scan and review repositories for their organisation as well.
 
 
 
@@ -79,7 +54,7 @@ In the normal use case, you start with phase 1 and go through each phase as the 
 
 ## Citation
 
-Use this citation for citing the SWORDS implementation of {INSERT YOUR ORGANISATION NAME}.
+Use this citation for citing the SWORDS implementation of TNW.
 ```
 {INSERT CITATION DETAILS}
 ```
@@ -105,7 +80,7 @@ Icons of the banner are made by [Freepik](https://www.freepik.com "Freepik") fro
 
 ## Contact
 
-For contact about this implementation of the SWORDS project, SWORDS@{INSERT YOUR ORGANISATION NAME ABBRAVATION}, post an issue on the [issue tracker](../../issues) or contact {INSERT YOUR EMAIL}. 
+For contact about this implementation of the SWORDS project, SWORDS@TNW, post an issue or contact Esther (e.plomp[at]tudelft.nl). 
 
 For general questions and remarks about the SWORDS project and the template can be posted on the [issue tracker of the SWORDS template](https://github.com/UtrechtUniversity/SWORDS-template/issues). You can also contact either [Jonathan de Bruin](https://github.com/J535D165) or [Keven Quach](https://github.com/kequach). 
 
